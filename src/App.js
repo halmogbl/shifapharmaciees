@@ -9,6 +9,8 @@ function App() {
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>Al-Shifa Pharmaciees</p>
         <p>Coming Soon</p>
+        <p>Contact us</p>
+        <p>pharmacystore@shifapharmaciees.com</p>
       </header>
     </div>
   );
